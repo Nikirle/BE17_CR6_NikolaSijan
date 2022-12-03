@@ -1,0 +1,28 @@
+.bgbody{
+   background-color:rgb(151, 167, 182)
+    
+
+}
+
+
+.img{
+    height: 70vh;
+    width: 45%;
+    border-radius: 10px;
+}
+
+.op{
+    background: rgb(252, 242, 242,0.6);
+}
+
+.op1{
+    background: rgb(252, 242, 242,0);
+}
+
+.bgnav{
+    background-color: rgb(36, 37, 43);
+}
+
+.test1{
+    color: red;
+}
